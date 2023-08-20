@@ -1,0 +1,3 @@
+Name: Deepu Kumar
+Skills: C, C++, DSA in c++, React.js, Node.js, HTML5, CSS, JavaScript, Basic Python, Basic java, MongoDB, MySQL
+Email: 200010011@iitdh.ac.in
